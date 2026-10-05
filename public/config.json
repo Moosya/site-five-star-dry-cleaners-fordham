@@ -1,0 +1,27 @@
+{
+  "shopName": "Five Star Dry Cleaners",
+  "tagline": "Dry cleaning and laundry on East Fordham Road",
+  "phone": "(718) 933-4800",
+  "address": "580 E Fordham Rd, Bronx, NY 10458",
+  "hours": "Call or visit for hours",
+  "photoUrl": "/hero.jpg",
+  "services": [
+    {
+      "name": "Dry cleaning",
+      "description": "Professional dry cleaning for suits, dresses, and everyday garments."
+    },
+    {
+      "name": "Laundry & press",
+      "description": "Wash, dry, and press service when you need clothes back ready to wear."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by — hours and turnaround by phone."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "five-star-dry-cleaners-fordham",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
