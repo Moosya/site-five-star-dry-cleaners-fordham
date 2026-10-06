@@ -4,7 +4,7 @@
   "phone": "(718) 933-4800",
   "address": "580 E Fordham Rd, Bronx, NY 10458",
   "hours": "Call or visit for hours",
-  "photoUrl": "/hero.jpg",
+  "photoUrl": "hero.jpg",
   "services": [
     {
       "name": "Dry cleaning",
